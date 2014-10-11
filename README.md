@@ -1,4 +1,4 @@
 magic-phonebooth
 ================
 
-Payphones as data collectors and friends
+Using payphones as data collectors and friends
